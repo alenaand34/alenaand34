@@ -8,7 +8,7 @@
 Я начинающий специалист по тестированию. Недавно я завершила курс «Junior» Артема Русова, где получила теоретические знания и практические навыки в функциональном тестировании веб- и мобильных приложений, API и работе с базами данных. 
 
 
-Ищу возможность применить свои знания в реальных проектах и развиваться в сфере тестирования. https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNtb2xpMW5yNGUwcW9yZnBmanVhcXh4czJqb3lieWNmdm8zbGRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1AsJYjSxCcslp3Vu/giphy.gif
+Ищу возможность применить свои знания в реальных проектах и развиваться в сфере тестирования.https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNtb2xpMW5yNGUwcW9yZnBmanVhcXh4czJqb3lieWNmdm8zbGRxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1AsJYjSxCcslp3Vu/giphy.gif
 
 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anduminaa@gmail.com)
 
