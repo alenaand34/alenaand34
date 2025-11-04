@@ -8,7 +8,7 @@
 Я начинающий специалист по тестированию. Недавно я завершила курс «Junior» Артема Русова, где получила теоретические знания и практические навыки в функциональном тестировании веб- и мобильных приложений, API и работе с базами данных. 
 
 
-Ищу возможность применить свои знания в реальных проектах и развиваться в сфере тестирования.  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm82ZGJkc2ZhbnZkNjRmY2tqdWU0ejhyenh4bGJhOG9sOWo1a3YwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2YDKznzhgiasQtVzZu/giphy.gif" width="30" alt="альтернативный текст">  
+Ищу возможность применить свои знания в реальных проектах и развиваться в сфере тестирования.  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm82ZGJkc2ZhbnZkNjRmY2tqdWU0ejhyenh4bGJhOG9sOWo1a3YwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2YDKznzhgiasQtVzZu/giphy.gif" width="500" alt=" ">  
 
 
 
