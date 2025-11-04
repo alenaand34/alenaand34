@@ -1,4 +1,4 @@
-# Привет, меня зовут Алена!
+# Привет, меня зовут Алена! ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh6OHV5dWFsZzRiMXJvcWQ0dGk0NGZ6a25xYzVodm56dnY5cGZzayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xmvrZPKLXByiyVYWJh/giphy.gif)
 
 
 ---
