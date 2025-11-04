@@ -38,19 +38,20 @@
 
 ### 📃 Тестовые артефакты:
 
-
-<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
     <h3>A Few Quick Facts</h3>
     <ul>
       <li>🌸 I'm currently learning test automation with Playwright and Selenium.</li>
-      <li>💼 My most recent role was as Android QA Engineer at a video-streaming service.</li>
+      <li>💼 My most recent role was as an Android QA Engineer at a video-streaming service.</li>
       <li>🧩 I enjoy mentoring junior specialists and guiding them into QA roles.</li>
-      <li>🏎 Fun facts: I love Formula 1 and pop culture.</li>
+      <li>🏎️ Fun facts: I love Formula 1 and pop culture.</li>
     </ul>
   </div>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3k2enlmZ282YzBiZmZ3eDgwNXh5bjh6YndlaG92dndrNG55YTZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pt0EKLDJmVvlS/giphy.gif"
-       width="250"
-       alt="Totoro animation"
-       style="margin-left: 20px; border-radius: 10px;">
+  <div>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3k2enlmZ282YzBiZmZ3eDgwNXh5bjh6YndlaG92dndrNG55YTZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pt0EKLDJmVvlS/giphy.gif"
+         width="250"
+         alt="Totoro animation"
+         style="border-radius: 10px;">
+  </div>
 </div>
