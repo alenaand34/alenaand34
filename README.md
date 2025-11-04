@@ -8,7 +8,7 @@
 
 Ищу возможность применить свои знания в реальных проектах и развиваться в сфере тестирования.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anduminaa@gmail.com)
+📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anduminaa@gmail.com)
 
 ---
 
