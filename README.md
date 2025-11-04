@@ -50,7 +50,15 @@
 
 
 ### 📃 Тестовые артефакты:
-[Теория тестирования](https://github.com/alenaand34/theory)
+[Теория тестирования](https://github.com/alenaand34/theory)  
+[Тест-дизайн](https://github.com/alenaand34/design)    
+[Документация](https://github.com/alenaand34/docs)  
+[Тестирование веб-приложений](https://github.com/alenaand34/web)  
+[Тестирование API](https://github.com/alenaand34/Api)  
+[Работа с базами данных](https://github.com/alenaand34/database)  
+[Тестирование мобильных приложений](https://github.com/alenaand34/mobile)  
+[Работа с Bash](https://github.com/alenaand34/git_bash)
+
 
 
 
