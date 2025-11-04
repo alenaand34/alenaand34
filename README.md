@@ -9,7 +9,7 @@
 
 
 Ищу возможность применить свои знания в реальных проектах и развиваться в сфере тестирования.  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm82ZGJkc2ZhbnZkNjRmY2tqdWU0ejhyenh4bGJhOG9sOWo1a3YwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2YDKznzhgiasQtVzZu/giphy.gif" width="30" alt="альтернативный текст">  
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm82ZGJkc2ZhbnZkNjRmY2tqdWU0ejhyenh4bGJhOG9sOWo1a3YwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2YDKznzhgiasQtVzZu/giphy.gif)
+
 
 
 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anduminaa@gmail.com)
