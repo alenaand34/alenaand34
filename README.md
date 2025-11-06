@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-[MY CV](https://github.com/alenaand34/MY-CV/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%20%D0%9F%D0%9E.pdf)
+[MY CV](https://github.com/alenaand34/MY-CV/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
 
 
 
